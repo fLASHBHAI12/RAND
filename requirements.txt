@@ -1,0 +1,7 @@
+telebot
+logging
+asyncio
+datetime
+os
+pyTelegramBotAPI
+
